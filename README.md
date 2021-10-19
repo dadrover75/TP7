@@ -10,6 +10,6 @@
 # 6to agrego el archivo con add . los cambios al area stage
 # 7mo mando al repositorio con commit -m
 
-# cuando quiero mandar a la nube (github) hago push -u origin (url del repositorio remoto)
+# cuando quiero mandar a la nube (github) hago push -u origin (url del repositorio remoto) y rama (master o main)
 
 # si quiero traer de alguien hago pull
